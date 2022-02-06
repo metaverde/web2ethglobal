@@ -11,9 +11,11 @@ Sigh.
 So all I have is vaporware.
 My Big Idea is to combine and riff off the Speedrun challenges I've completed 
 plus one I haven't and combine the lot of them into a super-dApp.
+Things were going well until I broke `yarn`,
+which unfortunately led to me changing a file I didn't save a backup of,
+which led to me reinstalling Ubuntu,
+and now it boots in the `grub` terminal.
 I'm getting errors on this machine every time I try to spin anything up.
-I think it will take a minute to catch him up to 2022.
-It's been a year since we've worked together.
 
 So the idea is to have NFTs of a particular artist with various attributes 
 qualifying for different white lists, entrance tickets, and income streams,
