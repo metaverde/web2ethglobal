@@ -16,13 +16,16 @@ which unfortunately led to me changing a file I didn't save a backup of,
 which led to me reinstalling Ubuntu,
 and now it boots in the `grub` terminal.
 I'm getting errors on this machine every time I try to spin anything up.
+Not sure how long updating and reinstalling software will take.
+
+The vaporware:
 
 So the idea is to have NFTs of a particular artist with various attributes 
 qualifying for different white lists, entrance tickets, and income streams,
 staking opportunities, still not exactly detailed, and a community token available,
 with the parameters of that still needing to be worked out.
 Certain exclusive NFTs would be sold with a Harberger Tax in order to fund the project.
-This is something we're looking at implementing in Canon at 1Hive.
+This latter bit is something we're looking at implementing in Canon at 1Hive.
 So I was really excited to be building that direction.
 But I broke my computer.
 Sigh.
